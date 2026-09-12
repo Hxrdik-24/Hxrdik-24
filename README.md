@@ -1,58 +1,112 @@
-
+<!-- Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=24&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hardik+%F0%9F%91%8B;Python+Developer+%7C+Cyber+Security+Enthusiast;Building+%7C+Learning+%7C+Breaking+%7C+Fixing;python3+-m+build_future;while+(learning)%3A+keep_coding()" alt="Live Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hardik+Prajapati;Python+Developer+%7C+Cyber+Security+Enthusiast;Building+%7C+Auditing+%7C+Securing;while+(learning)%3A+keep_building()" alt="Hardik Prajapati - Terminal Typing Intro" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatihardik2008&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatihardik2008" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajapatihardik2008&label=Profile%20Views&color=0075a8&style=flat-square" alt="Profile Views" />
+</p>
 
-  <br><br>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/hardik-prajapati" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h_24" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://instagram.com/prajapati__hardik__24" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<!-- About Me -->
+## 👨‍💻 About Me
+
+- 🔭 **Focus:** Building backend applications, command-line utilities, and exploring application security.
+- 🔒 **Cybersecurity Interest:** Web vulnerability research, secure code auditing, OSINT workflows, and CTF challenges.
+- ⚙️ **Workflow:** Linux environments, automation scripts, and reproducible development pipelines.
+- 🎯 **Current Target:** Deepening practical exploitation mitigation, network security fundamentals, and Python internals.
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+### Languages & Backend
 <p align="left">
-<a href="https://linkedin.com/in/hardik prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/prajapati__hardik__24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajapati__hardik__24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h - 24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h - 24" height="30" width="40" /></a>
-<div align="center" style="background: #0d0d0d; padding: 25px; border-radius: 15px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff;">
-  <h3 style="color: #fff; text-shadow: 0 0 10px #00f2ff; font-family: sans-serif;">💻 Languages and Tools</h3>
-  <br>
- 
-  
-  <table>
-        <tr>
-            <th> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th>  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="40" style="margin: 10px;"/></a>
-</th>
-            <th><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 10px;"/></a></th>
-            <th></th><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/></a></th>
-        </tr>
-    </table>
-  
-  
-  
- 
-  
-  
-</div>
-<br>
-### My GitHub Stats
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajapatiHardik2008&show_icons=true&theme=radical)
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiHardik2008&layout=compact&theme=radical)
+### Frontend & Databases
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  </a>
+</p>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihardik2008&show_icons=true&theme=radical" alt="GitHub Streak" />
-</div>
+### Systems & Tools
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  </a>
+</p>
 
-<br>
-<br><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatiHardik2008&theme=halloween&area=true&hide_border=true&custom_title=My%20Coding%20Activity&line=00ff00&point=ff0000" width="800" height="200" />
+---
+
+<!-- Featured Work -->
+## 📌 Featured Work & Projects
+
+### [NEXA OSINT // Command Center](https://github.com/prajapatihardik2008)
+> An intelligence-gathering and reconnaissance interface tailored for automated open-source investigations.
+- Built with a reactive frontend and modular data-fetching pipelines.
+- Designed for rapid querying and structured triage of OSINT feeds.
+- **Tech:** `Python` `TypeScript` `Vite` `Tailwind CSS`
+
+### [H-24 Security & Web Portal](https://github.com/prajapatihardik2008)
+> A full-stack web application designed for technical writing, security research notes, and tooling deployment.
+- Implements secure user authentication, role separation, and database persistence.
+- Handles dynamic content rendering and asset management via external storage pipelines.
+- **Tech:** `Python` `Flask` `PostgreSQL` `Authentication`
+
+---
+
+<!-- GitHub Analytics -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajapatihardik2008&show_icons=true&theme=radical&hide_border=true" alt="Hardik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatihardik2008&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihardik2008&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatihardik2008&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="100%" alt="Contribution Activity Graph" />
 </p>
