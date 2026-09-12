@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hardik+Prajapati;Python+Developer+%7C+Cyber+Security+Enthusiast;Building+%7C+Auditing+%7C+Securing;while+(learning)%3A+keep_building()" alt="Hardik Prajapati - Terminal Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hardik;Python+Developer+%7C+Cyber+Security+Enthusiast;Building+%7C+Auditing+%7C+Securing;while+(learning)%3A+keep_building()" alt="Hardik - Terminal Typing Intro" />
 </p>
 
 <p align="center">
