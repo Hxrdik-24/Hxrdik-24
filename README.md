@@ -32,6 +32,7 @@
 
 ---
 
+
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
@@ -46,8 +47,21 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
+
+### Mobile Development
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
   </a>
 </p>
 
@@ -76,6 +90,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
+
 
 ---
 
