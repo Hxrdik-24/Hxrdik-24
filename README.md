@@ -111,20 +111,23 @@
 - **Tech:** `Python` `Flask` `PostgreSQL` `Authentication`
 
 ---
-
-
 <!-- GitHub Analytics -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajapatihardik2008&show_icons=true&theme=radical&hide_border=true" alt="Hardik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatihardik2008&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hxrdik-24&show_icons=true&theme=radical&hide_border=true" alt="Hardik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxrdik-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihardik2008&theme=radical&hide_border=true" alt="GitHub Streak" />](https://streak-stats.demolab.com/?user=prajapatihardik2008&theme=radical&hide_border=true)
+  <a href="https://streak-stats.demolab.com/?user=Hxrdik-24&theme=radical&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=Hxrdik-24&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  [<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatihardik2008&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="100%" alt="Contribution Activity Graph" />](https://streak-stats.demolab.com/?user=Hxrdik-24&theme=radical&hide_border=true)
+  <a href="https://github.com/Hxrdik-24">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxrdik-24&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="100%" alt="Contribution Activity Graph" />
+  </a>
 </p>
