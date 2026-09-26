@@ -126,5 +126,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatihardik2008&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="100%" alt="Contribution Activity Graph" />
+  [<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatihardik2008&theme=radical&area=true&hide_border=true&custom_title=Contribution%20Commit%20Activity" width="100%" alt="Contribution Activity Graph" />](https://streak-stats.demolab.com/?user=Hxrdik-24&theme=radical&hide_border=true)
 </p>
